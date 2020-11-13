@@ -67,8 +67,8 @@ a:hover{
 
 .container {
   width: 500px;
-  padding-left: 0;   /* This sets the width */
-  margin: 0 auto;
+  padding: 2px;   /* This sets the width */
+  margin: 50px auto;
 }
 
 .card {
@@ -79,6 +79,7 @@ a:hover{
   border: 1px solid lightgrey;
   border-radius: 4px;
   box-shadow: 0 10px 30px rgba(0,0,0,.3);
+  width: 90%;
 }
 
 .card ul{
